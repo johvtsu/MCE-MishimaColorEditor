@@ -1,2 +1,2 @@
 # MCE-MishimaColorEditor
-Live colour editor for TEKKEN 8 Mishima electric effects.
+Live color editor for TEKKEN 8 Mishima electric effects.
