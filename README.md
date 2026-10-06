@@ -1,5 +1,3 @@
-
-
 # Mishima Color Editor 1.1.0
 
 Live color editor for the electrics of **TEKKEN 8**.
@@ -42,10 +40,11 @@ Change the color of every electric (EWGF, EWHF, ETU, ETGF, EWGK, HWGF, HTGF), pa
 
 After the loading screen, the unlock window appears. Nothing touches the game until MCE is unlocked.
 
+> **Early access:** MCE will become completely free later. The paid access and the unlock system are only for the early-access period, planned to last about a month.
+
 **With Patreon**
 
-1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu).
-> **Early access:** MCE will become completely free later. The paid access and the unlock system are only for the early-access period, planned to last about a month.
+1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu). One month is enough.
 2. In MCE, click **LOG IN WITH PATREON**. Your browser opens the official Patreon page: sign in and accept.
 3. Go back to MCE: it shows **UNLOCKED** and opens the editor.
 
@@ -58,7 +57,8 @@ Click **I have a key**, type the key you were given, then **UNLOCK**.
 - You unlock **once per PC**. The editor then works offline and never asks again for this version.
 - You can cancel your subscription afterwards: your version stays unlocked.
 - **Bug-fix updates** are free and install without logging in again.
-- **New paid versions** (for example after a TEKKEN 8 patch) need an active membership when you update. The update window tells you before you install it.
+- **During early access**, big updates are part of the early-access perks: after installing one, MCE asks you to log in with Patreon again (active membership needed). The update window tells you before you install it.
+- **When early access ends**, a free update removes the unlock step for everyone.
 - MCE never sees your Patreon password: the login happens on Patreon's own page. The licence check only uses your Patreon membership status and an anonymous identifier of your PC.
 
 ---
@@ -138,7 +138,7 @@ If you accept the update, the editor:
 2. downloads the new version and checks its SHA256 fingerprint,
 3. replaces the EXE and restarts by itself.
 
-Your settings, profiles and unlock are kept. A new paid version asks you to log in with Patreon once after restarting.
+Your settings, profiles and unlock are kept. During early access, a big update asks you to log in with Patreon once after restarting.
 
 ---
 
