@@ -42,7 +42,7 @@ After the loading screen, the unlock window appears. Nothing touches the game un
 
 **With Patreon**
 
-1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu). One month is enough.
+1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu). This app is supposed to be free, paid version is only for early access that's supposed to last a month ideally.
 2. In MCE, click **LOG IN WITH PATREON**. Your browser opens the official Patreon page: sign in and accept.
 3. Go back to MCE: it shows **UNLOCKED** and opens the editor.
 
