@@ -44,9 +44,10 @@ After the loading screen, the unlock window appears. Nothing touches the game un
 
 **With Patreon**
 
-1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu). This app will at some point be completely free, paid version and security mesures are only for early access that is supposed to last a month ideally.
-2. In MCE, click **LOG IN WITH PATREON**. Your browser opens the official Patreon page: sign in and accept.
-3. Go back to MCE: it shows **UNLOCKED** and opens the editor.
+1. Subscribe to the **MCE Access** tier on [patreon.com/johvtsu](https://www.patreon.com/johvtsu).
+2. > **Early access:** MCE will become completely free later. The paid access and the unlock system are only for the early-access period, planned to last about a month.
+3. In MCE, click **LOG IN WITH PATREON**. Your browser opens the official Patreon page: sign in and accept.
+4. Go back to MCE: it shows **UNLOCKED** and opens the editor.
 
 **With a key**
 
