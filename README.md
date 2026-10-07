@@ -1,6 +1,4 @@
-
-
-# Mishima Color Editor 1.1.0
+# Mishima Color Editor 1.3.0
 
 Live color editor for the electrics of **TEKKEN 8**.
 Supported characters: **Kazuya, Jin, Devil Jin, Reina and Heihachi**.
@@ -13,7 +11,7 @@ Change the color of every electric (EWGF, EWHF, ETU, ETGF, EWGK, HWGF, HTGF), pa
 
 - Windows 10 or 11 (64-bit)
 - TEKKEN 8 (PC)
-- An active **MCE Access** membership on Patreon, or a key given by the author
+- An active **MCE Access** membership on Patreon, or a key given by the author (or try the **free demo** with Devil Jin)
 - Nothing else to install: the app is a single file, `MCE.exe`.
 
 ---
@@ -23,7 +21,7 @@ Change the color of every electric (EWGF, EWHF, ETU, ETGF, EWGK, HWGF, HTGF), pa
 1. Download **`MCE.exe`** from the latest release.
 2. Put it wherever you like (Desktop, Documents, a games folder...).
 3. Double-click it.
-4. Unlock it once (see below).
+4. Unlock it once, or try the free demo (see below).
 
 > **Windows warning on first launch**
 > The app is not signed, so Windows may block it the first time. Your browser may also ask you to confirm the download of an `.exe` file.
@@ -59,6 +57,14 @@ After the loading screen, the unlock window appears. Nothing touches the game un
 **With a key**
 
 Click **I have a key**, type the key you were given, then **UNLOCK**.
+
+**Free demo**
+
+Click **TRY THE DEMO**: **Devil Jin is fully unlocked** (every mode, gradients, Glow, Intensity, profiles and presets), no account needed.
+
+- Kazuya, Jin, Reina, Heihachi and the background choice are part of MCE Access: they show a padlock.
+- Unlock at any time from the **DEMO · UNLOCK** badge or by clicking a locked fighter. Everything unlocks at once, without restarting.
+- The editor remembers your choice and opens straight in the demo next time.
 
 **Good to know**
 
@@ -119,6 +125,7 @@ An orange mark means *edited but not applied yet*.
   - several electrics,
   - or only some parts.
 - **IMPORT** opens a preset file, checks it, and lets you choose what to take from it. Only the parts you pick are replaced. You can apply the import in game right away.
+- A preset always goes to the **selected fighter**. If it was made for another fighter, its parts go onto the **selected electric**, each one replacing the same part. Example: select Heihachi's HTGF, import a friend's Kazuya EWGF preset, pick the parts you want.
 
 ---
 
@@ -140,11 +147,11 @@ An orange mark means *edited but not applied yet*.
 
 At start-up the editor checks the GitHub releases for a newer version.
 
-If you accept the update, the editor:
+If you accept the update, a progress card shows each step:
 
-1. turns MOD OFF and restores TEKKEN's original colors,
-2. downloads the new version and checks its SHA256 fingerprint,
-3. replaces the EXE and restarts by itself.
+1. **Download**: the new version, with its progress. You can still cancel here.
+2. **Check**: its SHA256 fingerprint. Only a verified file is installed.
+3. **Restart**: MOD turns off, TEKKEN's original colors are restored, the EXE is replaced and the editor reopens by itself.
 
 Your settings, profiles and unlock are kept. During early access, a big update asks you to log in with Patreon once after restarting.
 
@@ -152,8 +159,7 @@ Your settings, profiles and unlock are kept. During early access, a big update a
 
 ## Important
 
-> **Disclaimer:** this tool modifies the game's memory. You use it **at your own risk**. The author accepts **no responsibility** for any ban, account restriction, data loss or other consequence resulting from its use while **playing online**.
-
+> **Disclaimer:** this tool modifies the game's memory. You use it **at your own risk**. The author accepts **no responsibility** for any ban, account restriction, data loss or other consequence resulting from its use, **including any use while playing online**.
 - If the editor asks you to **restart TEKKEN 8**, close the game and start it again. MOD turns back on by itself.
 
   This happens when an old copy of your colors could not be checked safely, so the editor refuses to touch it. It is now much rarer: the editor recognises when the game has reused the memory of an old effect for a new one.
