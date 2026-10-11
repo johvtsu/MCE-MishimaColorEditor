@@ -159,7 +159,9 @@ Your settings, profiles and unlock are kept. During early access, a big update a
 
 ## Important
 
-> **Disclaimer:** this tool modifies the game's memory. You use it **at your own risk**. The author accepts **no responsibility** for any ban, account restriction, data loss or other consequence resulting from its use, **including any use while playing online**.
+**IMPORTANT:** if you ever face an issue with the application while playing,**do not close it*, go to settings (gear icon on the top right) and click *export report*, a ZIP file will be created in this path: AppData\Roaming\MishimaColorEditor\Diagnostics
+
+> **Disclaimer:** this tool modifies the game's memory. You use it **at your own risk** online. The author accepts **no responsibility** for any ban, account restriction, data loss or other consequence resulting from its use, **including any use while playing online**.
 - If the editor asks you to **restart TEKKEN 8**, close the game and start it again. MOD turns back on by itself.
 
   This happens when an old copy of your colors could not be checked safely, so the editor refuses to touch it. It is now much rarer: the editor recognises when the game has reused the memory of an old effect for a new one.
