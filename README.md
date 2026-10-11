@@ -173,7 +173,7 @@ Your settings, profiles and unlock are kept. During early access, a big update a
 Settings, profiles, your unlock and diagnostic reports are stored in:
 
 ```
-C:\Users\<your name>\AppData\Roaming\MishimaColorEditor
+AppData\Roaming\MishimaColorEditor
 ```
 
 Quick access: press **Win + R**, type `%AppData%\MishimaColorEditor`, then press Enter.
