@@ -159,7 +159,7 @@ Your settings, profiles and unlock are kept. During early access, a big update a
 
 ## Important
 
-**IMPORTANT:** if you ever face an issue with the application while playing,*do not close it*, go to settings (gear icon on the top right) and click *export report*, a ZIP file will be created in this path: AppData\Roaming\MishimaColorEditor\Diagnostics
+**IMPORTANT:** if you ever face an issue with the application while playing,**do not close it**, go to settings (gear icon on the top right) and **click export report**, a ZIP file will be created at this path: AppData\Roaming\MishimaColorEditor\Diagnostics
 
 > **Disclaimer:** this tool modifies the game's memory. You use it **at your own risk** online. The author accepts **no responsibility** for any ban, account restriction, data loss or other consequence resulting from its use, **including any use while playing online**.
 - If the editor asks you to **restart TEKKEN 8**, close the game and start it again. MOD turns back on by itself.
