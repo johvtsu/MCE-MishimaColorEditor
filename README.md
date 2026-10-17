@@ -11,7 +11,7 @@ Change the color of every electric (EWGF, EWHF, ETU, ETGF, EWGK, HWGF, HTGF), pa
 
 - Windows 10 or 11 (64-bit)
 - TEKKEN 8 (PC)
-- An active **MCE Access** membership on Patreon, or a key given by the author (or try the **free demo** with Devil Jin)
+- An active **MCE Access** membership on Patreon, or a key given by the author.
 - Nothing else to install: the app is a single file, `MCE.exe`.
 
 ---
